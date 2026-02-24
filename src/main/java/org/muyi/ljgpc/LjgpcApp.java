@@ -1,4 +1,4 @@
-package org.muyi.learn.ljgpc;
+package org.muyi.ljgpc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
